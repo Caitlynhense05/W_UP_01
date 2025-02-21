@@ -74,3 +74,4 @@ the probability of getting a result like this is, in high school terms, .0000009
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+first, we grabbed commands that helped us use date so we can analyze it and form an answer. Then we copied the "graphical results" and replaced the initial command with different information like pushups positions and mydata. This gave us our boxplots. Then we continued doing the same for each different type of data. 
